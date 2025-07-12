@@ -11,5 +11,3 @@ Chatbot Hukum ini dikembangkan menggunakan pendekatan Retrieval-Augmented Genera
     ✅ Implementasi RAG dengan ChromaDB untuk vector storage
 
     ✅ Dataset berbasis csv hasil ekstraksi Perpres No. 51 Tahun 2023
-
-    ✅ Antarmuka interaktif berbasis Jupyter Notebook
