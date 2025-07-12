@@ -83,7 +83,7 @@ interface.launch()
 from huggingface_hub import login
 
 # Ganti dengan token kamu
-login(token="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")
+login(token="") # Sesuaikan dengan Token yang didapat dari Hugging Face
 
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
